@@ -30,6 +30,7 @@ Classification Report:
            1       1.00      1.00      1.00     28325
     accuracy                           1.00     84976
    macro avg       1.00      1.00      1.00     84976
+   
 weighted avg       1.00      1.00      1.00     84976
 
 ### Confusion Matrix:
